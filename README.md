@@ -10,9 +10,11 @@
 
 The 6in1 repo is maintained by a developer who are passionate about iOS 6. The repo is updated regularly with new content, and the developers are always open to feedback.
 
-**If you are running iOS 6 and are looking for tweaks, themes, and utilities, then 6in1 is the perfect place to start.** The repo is easy to use and has a wide variety of content to choose from. So what are you waiting for? Check it out today!
+**If you are running iOS 6 and are looking for tweaks, themes, and utilities, then 6In1 is the perfect place to start.** The repo is easy to use and has a wide variety of content to choose from. So what are you waiting for? Check it out today!
 Here is some fun facts:
 * The repo is compatible with all iOS 6 devices.
 * The content in the repo is free to download and use.
 * The repo is open source, so you can contribute your own tweaks, themes, and utilities.
 * The repo is well-maintained and updated regularly.
+
+Want to remove your app's that we published to the repo? Make a Pull Request.

@@ -1,5 +1,5 @@
-# 6in1
-**6in1** is a jailbreak repo that contains a collection of tweaks, themes, and utilities that work on iOS 6. The repo is named after the fact that it includes six different categories of content:
+# 6In1
+**6In1** is a jailbreak repo that contains a collection of tweaks, themes, and utilities that work on iOS 6. The repo is named after the fact that it includes six different categories of content:
 
 * Tweaks: These are modifications to the iOS operating system that can change the way your device looks and works.
 * Themes: These are sets of custom icons, wallpapers, and other visual elements that can give your device a new look.
